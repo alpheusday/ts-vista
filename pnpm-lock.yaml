@@ -27,7 +27,11 @@ importers:
         specifier: ^5.6.3
         version: 5.6.3
 
-  package: {}
+  package:
+    dependencies:
+      typescript:
+        specifier: '>=5'
+        version: 5.6.3
 
   test:
     dependencies:
