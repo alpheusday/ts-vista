@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "vitest run",
+        "": ""
+    },
+    "dependencies": {
+        "ts-vista": "workspace:^",
+        "vitest": "^2.1.5"
+    },
+    "devDependencies": {
+        "vite": "^5.4.11"
+    }
+}
