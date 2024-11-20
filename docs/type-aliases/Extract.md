@@ -39,11 +39,10 @@ type P2B = Extract<T4, { type: "a" } | { type: "b" }>;
 
 ## Type Parameters
 
-| Type Parameter |
-| ------ |
-| `T` |
-| `U` *extends* `Partial`\<`T`\> |
+• **T**
+
+• **U** *extends* `Partial`\<`T`\>
 
 ## Defined in
 
-[@types/extract.ts:35](https://github.com/alpheustangs/ts-vista/blob/8bbe28116f138b15dd06e37767960e13a4fdad79/package/src/@types/extract.ts#L35)
+[@types/extract.ts:35](https://github.com/alpheustangs/ts-vista/blob/7305b9af7fc4e532c5d41e5524c0a80f5c2aa978/package/src/@types/extract.ts#L35)
