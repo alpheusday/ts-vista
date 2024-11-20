@@ -42,6 +42,10 @@ const o1: T = {
 const o2: Omit<T, "a"> = omit(o1, ["a"]);
 ```
 
+## Documentation
+
+For more information, please refer to the [documentation](./docs/README.md).
+
 ## License
 
 This project is licensed under the terms of the MIT license.
