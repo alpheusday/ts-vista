@@ -43,10 +43,11 @@ type D2B = Exclude<
 
 ## Type Parameters
 
-• **T**
-
-• **U** *extends* `T`
+| Type Parameter |
+| ------ |
+| `T` |
+| `U` *extends* `T` |
 
 ## Defined in
 
-[@types/exclude.ts:39](https://github.com/alpheustangs/ts-vista/blob/c55ddd747aa287607cf84dd6de142b1ed1e2f70a/package/src/@types/exclude.ts#L39)
+[@types/exclude.ts:39](https://github.com/alpheustangs/ts-vista/blob/8bbe28116f138b15dd06e37767960e13a4fdad79/package/src/@types/exclude.ts#L39)

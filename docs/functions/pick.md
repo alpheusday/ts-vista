@@ -30,15 +30,17 @@ const keys2: Keys2 = pick(keys, ["a", "b"]);
 
 ## Type Parameters
 
-• **T** *extends* `object`
-
-• **K** *extends* keyof `T`[]
+| Type Parameter |
+| ------ |
+| `T` *extends* `object` |
+| `K` *extends* keyof `T`[] |
 
 ## Parameters
 
-• **object**: `T`
-
-• **keys**: `K`
+| Parameter | Type |
+| ------ | ------ |
+| `object` | `T` |
+| `keys` | `K` |
 
 ## Returns
 
@@ -46,4 +48,4 @@ const keys2: Keys2 = pick(keys, ["a", "b"]);
 
 ## Defined in
 
-[functions/pick.ts:28](https://github.com/alpheustangs/ts-vista/blob/c55ddd747aa287607cf84dd6de142b1ed1e2f70a/package/src/functions/pick.ts#L28)
+[functions/pick.ts:28](https://github.com/alpheustangs/ts-vista/blob/8bbe28116f138b15dd06e37767960e13a4fdad79/package/src/functions/pick.ts#L28)

@@ -27,8 +27,10 @@ type F = Format<T1 & T2>;
 
 ## Type Parameters
 
-• **T**
+| Type Parameter |
+| ------ |
+| `T` |
 
 ## Defined in
 
-[@types/format.ts:24](https://github.com/alpheustangs/ts-vista/blob/c55ddd747aa287607cf84dd6de142b1ed1e2f70a/package/src/@types/format.ts#L24)
+[@types/format.ts:24](https://github.com/alpheustangs/ts-vista/blob/8bbe28116f138b15dd06e37767960e13a4fdad79/package/src/@types/format.ts#L24)
