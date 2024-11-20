@@ -3,7 +3,7 @@ import { split } from "#/functions/split";
 /**
  * From `object`, pick a set of properties whose keys are in `keys`.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import { pick } from "ts-vista";

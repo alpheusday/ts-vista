@@ -2,7 +2,7 @@
  * Construct a type with the properties of T
  * except for those in type K.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import type { Omit } from "ts-vista";
