@@ -33,11 +33,10 @@ type C3 = Readonly<T, "a" | "b">;
 
 ## Type Parameters
 
-| Type Parameter | Default type |
-| ------ | ------ |
-| `T` | - |
-| `K` *extends* keyof `T` | keyof `T` |
+• **T**
+
+• **K** *extends* keyof `T` = keyof `T`
 
 ## Defined in
 
-[@types/readonly.ts:31](https://github.com/alpheustangs/ts-vista/blob/8bbe28116f138b15dd06e37767960e13a4fdad79/package/src/@types/readonly.ts#L31)
+[@types/readonly.ts:31](https://github.com/alpheustangs/ts-vista/blob/7305b9af7fc4e532c5d41e5524c0a80f5c2aa978/package/src/@types/readonly.ts#L31)

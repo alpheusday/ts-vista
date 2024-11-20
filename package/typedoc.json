@@ -6,11 +6,5 @@
     "readme": "none",
     "entryFileName": "README",
     "hidePageHeader": true,
-    "indexFormat": "table",
-    "parametersFormat": "table",
-    "interfacePropertiesFormat": "table",
-    "classPropertiesFormat": "table",
-    "enumMembersFormat": "table",
-    "typeDeclarationFormat": "table",
-    "propertyMembersFormat": "table"
+    "indexFormat": "table"
 }

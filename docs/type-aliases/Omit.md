@@ -27,11 +27,10 @@ type D2 = Omit<T, "a" | "b">;
 
 ## Type Parameters
 
-| Type Parameter |
-| ------ |
-| `T` |
-| `K` *extends* keyof `T` |
+• **T**
+
+• **K** *extends* keyof `T`
 
 ## Defined in
 
-[@types/omit.ts:23](https://github.com/alpheustangs/ts-vista/blob/8bbe28116f138b15dd06e37767960e13a4fdad79/package/src/@types/omit.ts#L23)
+[@types/omit.ts:23](https://github.com/alpheustangs/ts-vista/blob/7305b9af7fc4e532c5d41e5524c0a80f5c2aa978/package/src/@types/omit.ts#L23)
