@@ -1,7 +1,7 @@
 /**
  * Extract from T those types that are assignable to U.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import type { Extract } from "ts-vista";

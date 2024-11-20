@@ -3,7 +3,7 @@ import type { Omit } from "#/@types/omit";
 /**
  * Make properties in T readonly.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import type { Readonly } from "ts-vista";

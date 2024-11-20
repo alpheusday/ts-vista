@@ -1,7 +1,7 @@
 /**
  * Make all properties in T visible.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import type { Format } from "ts-vista";

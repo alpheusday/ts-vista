@@ -3,7 +3,7 @@ import type { Omit } from "#/@types/omit";
 /**
  * Make properties in T optional.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import type { Partial } from "ts-vista";

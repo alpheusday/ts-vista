@@ -1,0 +1,16 @@
+{
+    "$schema": "https://typedoc-plugin-markdown.org/schema.json",
+    "entryPoints": ["./src/index.ts"],
+    "out": "./../docs",
+    "plugin": ["typedoc-plugin-markdown"],
+    "readme": "none",
+    "entryFileName": "README",
+    "hidePageHeader": true,
+    "indexFormat": "table",
+    "parametersFormat": "table",
+    "interfacePropertiesFormat": "table",
+    "classPropertiesFormat": "table",
+    "enumMembersFormat": "table",
+    "typeDeclarationFormat": "table",
+    "propertyMembersFormat": "table"
+}

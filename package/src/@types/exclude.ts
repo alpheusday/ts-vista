@@ -1,7 +1,7 @@
 /**
  * Exclude from T those types that are assignable to U.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import type { Exclude } from "ts-vista";

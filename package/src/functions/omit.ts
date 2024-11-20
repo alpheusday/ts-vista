@@ -6,7 +6,7 @@ import { split } from "#/functions/split";
  * Construct an object with the properties of `object`
  * except for those in `keys`.
  *
- * ## Example
+ * ### Example
  *
  * ```ts
  * import type { Omit } from "ts-vista";
