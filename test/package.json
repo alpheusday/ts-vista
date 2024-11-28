@@ -7,7 +7,7 @@
     },
     "dependencies": {
         "ts-vista": "workspace:^",
-        "vitest": "^2.1.5"
+        "vitest": "^2.1.6"
     },
     "devDependencies": {
         "vite": "^5.4.11"
