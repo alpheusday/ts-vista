@@ -33,13 +33,5 @@
     "main": "./dist/index.js",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
-    "files": ["dist"],
-    "peerDependencies": {
-        "typescript": ">=5"
-    },
-    "peerDependenciesMeta": {
-        "typescript": {
-            "optional": true
-        }
-    }
+    "files": ["dist"]
 }
