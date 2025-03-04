@@ -13,7 +13,7 @@ importers:
         version: 0.1.0(@biomejs/biome@1.9.4)
       '@apst/tsconfig':
         specifier: ~0.1.0
-        version: 0.1.0(typescript@5.7.3)
+        version: 0.1.0(typescript@5.8.2)
       '@biomejs/biome':
         specifier: ^1.9.4
         version: 1.9.4
@@ -22,16 +22,16 @@ importers:
         version: 1.11.4
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@swc/core@1.11.4)(postcss@8.5.3)(typescript@5.7.3)(yaml@2.7.0)
+        version: 8.4.0(@swc/core@1.11.4)(postcss@8.5.3)(typescript@5.8.2)(yaml@2.7.0)
       typedoc:
         specifier: ~0.27.9
-        version: 0.27.9(typescript@5.7.3)
+        version: 0.27.9(typescript@5.8.2)
       typedoc-plugin-markdown:
         specifier: ^4.4.2
-        version: 4.4.2(typedoc@0.27.9(typescript@5.7.3))
+        version: 4.4.2(typedoc@0.27.9(typescript@5.8.2))
       typescript:
-        specifier: ^5.7.3
-        version: 5.7.3
+        specifier: ^5.8.2
+        version: 5.8.2
 
   package: {}
 
@@ -916,8 +916,8 @@ packages:
     peerDependencies:
       typescript: 5.0.x || 5.1.x || 5.2.x || 5.3.x || 5.4.x || 5.5.x || 5.6.x || 5.7.x || 5.8.x
 
-  typescript@5.7.3:
-    resolution: {integrity: sha512-84MVSjMEHP+FQRPy3pX9sTVV/INIex71s9TL2Gm5FG/WG1SqXeKyZ0k7/blY/4FdOzI12CBy1vGc4og/eus0fw==}
+  typescript@5.8.2:
+    resolution: {integrity: sha512-aJn6wq13/afZp/jT9QZmwEjDqqvSGp1VT5GVg+f/t6/oVyrgXM6BY1h9BRh/O5p3PlUPAe+WuiEZOmb/49RqoQ==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -1032,9 +1032,9 @@ snapshots:
     optionalDependencies:
       '@biomejs/biome': 1.9.4
 
-  '@apst/tsconfig@0.1.0(typescript@5.7.3)':
+  '@apst/tsconfig@0.1.0(typescript@5.8.2)':
     optionalDependencies:
-      typescript: 5.7.3
+      typescript: 5.8.2
 
   '@biomejs/biome@1.9.4':
     optionalDependencies:
@@ -1689,7 +1689,7 @@ snapshots:
 
   ts-interface-checker@0.1.13: {}
 
-  tsup@8.4.0(@swc/core@1.11.4)(postcss@8.5.3)(typescript@5.7.3)(yaml@2.7.0):
+  tsup@8.4.0(@swc/core@1.11.4)(postcss@8.5.3)(typescript@5.8.2)(yaml@2.7.0):
     dependencies:
       bundle-require: 5.1.0(esbuild@0.25.0)
       cac: 6.7.14
@@ -1710,27 +1710,27 @@ snapshots:
     optionalDependencies:
       '@swc/core': 1.11.4
       postcss: 8.5.3
-      typescript: 5.7.3
+      typescript: 5.8.2
     transitivePeerDependencies:
       - jiti
       - supports-color
       - tsx
       - yaml
 
-  typedoc-plugin-markdown@4.4.2(typedoc@0.27.9(typescript@5.7.3)):
+  typedoc-plugin-markdown@4.4.2(typedoc@0.27.9(typescript@5.8.2)):
     dependencies:
-      typedoc: 0.27.9(typescript@5.7.3)
+      typedoc: 0.27.9(typescript@5.8.2)
 
-  typedoc@0.27.9(typescript@5.7.3):
+  typedoc@0.27.9(typescript@5.8.2):
     dependencies:
       '@gerrit0/mini-shiki': 1.27.2
       lunr: 2.3.9
       markdown-it: 14.1.0
       minimatch: 9.0.5
-      typescript: 5.7.3
+      typescript: 5.8.2
       yaml: 2.7.0
 
-  typescript@5.7.3: {}
+  typescript@5.8.2: {}
 
   uc.micro@2.1.0: {}
 
