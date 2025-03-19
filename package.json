@@ -14,7 +14,7 @@
         "@biomejs/biome": "^1.9.4",
         "tsup": "^8.4.0",
         "typedoc": "~0.28.0",
-        "typedoc-plugin-markdown": "^4.5.0",
+        "typedoc-plugin-markdown": "^4.5.1",
         "typescript": "^5.8.2"
     },
     "engines": {
