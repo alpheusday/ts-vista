@@ -15,31 +15,12 @@ yarn add ts-vista
 
 # pnpm
 pnpm add ts-vista
-```
 
-## Quick Start
+# Deno
+deno add npm:ts-vista
 
-Omit keys from an object:
-
-```ts
-import type { Omit } from "ts-vista";
-
-import { omit } from "ts-vista";
-
-type T = {
-    a: string;
-    b: number;
-    c: boolean;
-};
-
-const o1: T = {
-    a: "a",
-    b: 1,
-    c: true,
-};
-
-// o2 = { b: 1, c: true }
-const o2: Omit<T, "a"> = omit(o1, ["a"]);
+# Bun
+bun add ts-vista
 ```
 
 ## Documentation
