@@ -1,4 +1,5 @@
 {
+    "name": "ts-vista-test",
     "private": true,
     "type": "module",
     "scripts": {
@@ -6,10 +7,6 @@
         "": ""
     },
     "dependencies": {
-        "ts-vista": "workspace:^",
-        "vitest": "^3.1.1"
-    },
-    "devDependencies": {
-        "vite": "^6.2.6"
+        "ts-vista": "workspace:^"
     }
 }
