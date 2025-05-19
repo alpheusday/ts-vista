@@ -23,9 +23,9 @@ deno add npm:ts-vista
 bun add ts-vista
 ```
 
-## Documentation
+## APIs
 
-For more information, please refer to the [documentation](./docs/README.md).
+For the APIs, please refer to the [APIs](./apis/README.md).
 
 ## License
 
