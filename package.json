@@ -11,7 +11,7 @@
         "@apst/biome": "~0.1.0",
         "@apst/tsconfig": "~0.1.0",
         "@biomejs/biome": "^1.9.4",
-        "tsup": "^8.4.0",
+        "tsup": "^8.5.0",
         "typescript": "^5.8.3",
         "vite": "^6.3.5",
         "vitest": "^3.1.3"
