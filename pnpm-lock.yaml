@@ -12,7 +12,7 @@ importers:
         specifier: ~0.2.0
         version: 0.2.0(@biomejs/biome@1.9.4)
       '@apst/tsconfig':
-        specifier: ~0.1.0
+        specifier: ~0.1.1
         version: 0.1.1(typescript@5.8.3)
       '@biomejs/biome':
         specifier: ^1.9.4
@@ -21,7 +21,7 @@ importers:
         specifier: ^8.5.0
         version: 8.5.0(@swc/core@1.11.9)(postcss@8.5.3)(typescript@5.8.3)(yaml@2.8.0)
       typedoc:
-        specifier: ^0.28.5
+        specifier: ~0.28.5
         version: 0.28.5(typescript@5.8.3)
       typedoc-plugin-markdown:
         specifier: ^4.6.3
