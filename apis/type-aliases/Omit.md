@@ -6,7 +6,7 @@
 type Omit<T, K> = { [KY in keyof T as KY extends K ? never : KY]: T[KY] };
 ```
 
-Defined in: [@types/omit.ts:23](https://github.com/alpheustangs/ts-vista/blob/eab8284f4120b255476b7a6b3bf20303d7fc4744/package/src/@types/omit.ts#L23)
+Defined in: [@types/omit.ts:23](https://github.com/alpheus-day/ts-vista/blob/a2bc999187faa2f0eb8f7abe2b1074733e87318f/package/src/@types/omit.ts#L23)
 
 Construct a type with the properties of T
 except for those in type K.

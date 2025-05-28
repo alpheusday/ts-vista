@@ -10,15 +10,15 @@
         "base",
         "basic",
         "ts",
-        "TypeScript",
+        "typescript",
         "js",
-        "JavaScript"
+        "javascript"
     ],
-    "homepage": "https://github.com/alpheustangs/ts-vista",
-    "bugs": "https://github.com/alpheustangs/ts-vista/issues",
+    "homepage": "https://github.com/alpheus-day/ts-vista",
+    "bugs": "https://github.com/alpheus-day/ts-vista/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/alpheustangs/ts-vista.git",
+        "url": "https://github.com/alpheus-day/ts-vista.git",
         "directory": "package"
     },
     "license": "MIT",
