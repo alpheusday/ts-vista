@@ -1,3 +1,9 @@
+## 0.2.1 (2025-05-28)
+
+### What's Changed
+
+- Update `package.json`
+
 ## 0.2.0 (2025-04-14)
 
 ### What's New
