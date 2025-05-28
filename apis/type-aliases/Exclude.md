@@ -6,7 +6,7 @@
 type Exclude<T, U> = T extends U ? never : T;
 ```
 
-Defined in: [@types/exclude.ts:39](https://github.com/alpheus-day/ts-vista/blob/a2bc999187faa2f0eb8f7abe2b1074733e87318f/package/src/@types/exclude.ts#L39)
+Defined in: [@types/exclude.ts:39](https://github.com/alpheusday/ts-vista/blob/c438b9dc95b0e81e858cb313b2cc7855fc9db4c9/package/src/@types/exclude.ts#L39)
 
 Exclude from T those types that are assignable to U.
 
