@@ -1,6 +1,6 @@
 # TypeScript Vista
 
-An utility to enhance TypeScript.
+A utility to enhance TypeScript.
 
 ## License
 
