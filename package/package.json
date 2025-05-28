@@ -14,11 +14,11 @@
         "js",
         "javascript"
     ],
-    "homepage": "https://github.com/alpheus-day/ts-vista",
-    "bugs": "https://github.com/alpheus-day/ts-vista/issues",
+    "homepage": "https://github.com/alpheusday/ts-vista",
+    "bugs": "https://github.com/alpheusday/ts-vista/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/alpheus-day/ts-vista.git",
+        "url": "https://github.com/alpheusday/ts-vista.git",
         "directory": "package"
     },
     "license": "MIT",
