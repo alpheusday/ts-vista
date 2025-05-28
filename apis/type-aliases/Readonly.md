@@ -6,7 +6,7 @@
 type Readonly<T, K> = Omit<T, K> & Readonly<Pick<T, K>>;
 ```
 
-Defined in: [@types/readonly.ts:31](https://github.com/alpheustangs/ts-vista/blob/eab8284f4120b255476b7a6b3bf20303d7fc4744/package/src/@types/readonly.ts#L31)
+Defined in: [@types/readonly.ts:31](https://github.com/alpheus-day/ts-vista/blob/a2bc999187faa2f0eb8f7abe2b1074733e87318f/package/src/@types/readonly.ts#L31)
 
 Make properties in T readonly.
 

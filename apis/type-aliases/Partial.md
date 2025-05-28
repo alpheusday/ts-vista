@@ -6,7 +6,7 @@
 type Partial<T, K> = Omit<T, K> & Partial<Pick<T, K>>;
 ```
 
-Defined in: [@types/partial.ts:27](https://github.com/alpheustangs/ts-vista/blob/eab8284f4120b255476b7a6b3bf20303d7fc4744/package/src/@types/partial.ts#L27)
+Defined in: [@types/partial.ts:27](https://github.com/alpheus-day/ts-vista/blob/a2bc999187faa2f0eb8f7abe2b1074733e87318f/package/src/@types/partial.ts#L27)
 
 Make properties in T optional.
 

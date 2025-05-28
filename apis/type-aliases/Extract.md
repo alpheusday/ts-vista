@@ -6,7 +6,7 @@
 type Extract<T, U> = T extends U ? T : never;
 ```
 
-Defined in: [@types/extract.ts:35](https://github.com/alpheustangs/ts-vista/blob/eab8284f4120b255476b7a6b3bf20303d7fc4744/package/src/@types/extract.ts#L35)
+Defined in: [@types/extract.ts:35](https://github.com/alpheus-day/ts-vista/blob/a2bc999187faa2f0eb8f7abe2b1074733e87318f/package/src/@types/extract.ts#L35)
 
 Extract from T those types that are assignable to U.
 
