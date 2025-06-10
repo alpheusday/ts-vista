@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "ts-vista": "workspace:^",
-        "vitest": "^3.2.2"
+        "vitest": "^3.2.3"
     },
     "devDependencies": {
         "vite": "^6.3.5"
