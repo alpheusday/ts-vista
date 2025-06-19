@@ -19,9 +19,14 @@ describe("Omit function tests", (): void => {
             c: 3,
         };
 
-        const obj2: Obj2 = omit(obj1, ["a"]);
+        const obj2: Obj2 = omit(obj1, [
+            "a",
+        ]);
 
-        expect(obj2).toEqual({ b: 2, c: 3 });
+        expect(obj2).toEqual({
+            b: 2,
+            c: 3,
+        });
     });
 
     it("should omit keys from an object", (): void => {
@@ -39,8 +44,13 @@ describe("Omit function tests", (): void => {
             c: 3,
         };
 
-        const obj2: Obj2 = omit(obj1, ["a", "b"]);
+        const obj2: Obj2 = omit(obj1, [
+            "a",
+            "b",
+        ]);
 
-        expect(obj2).toEqual({ c: 3 });
+        expect(obj2).toEqual({
+            c: 3,
+        });
     });
 });

@@ -17,9 +17,13 @@ describe("Pick function tests", (): void => {
             c: 3,
         };
 
-        const obj2: Obj2 = pick(obj1, ["a"]);
+        const obj2: Obj2 = pick(obj1, [
+            "a",
+        ]);
 
-        expect(obj2).toEqual({ a: 1 });
+        expect(obj2).toEqual({
+            a: 1,
+        });
     });
 
     it("should pick keys from an object", (): void => {
@@ -37,8 +41,14 @@ describe("Pick function tests", (): void => {
             c: 3,
         };
 
-        const obj2: Obj2 = pick(obj1, ["a", "b"]);
+        const obj2: Obj2 = pick(obj1, [
+            "a",
+            "b",
+        ]);
 
-        expect(obj2).toEqual({ a: 1, b: 2 });
+        expect(obj2).toEqual({
+            a: 1,
+            b: 2,
+        });
     });
 });
