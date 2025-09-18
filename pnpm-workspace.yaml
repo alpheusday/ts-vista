@@ -1,3 +1,9 @@
 packages:
     - ./package
     - ./test
+
+minimumReleaseAge: 1440
+
+minimumReleaseAgeExclude:
+    - "@apst/biome"
+    - "@apst/tsconfig"
