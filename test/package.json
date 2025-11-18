@@ -8,6 +8,6 @@
     },
     "dependencies": {
         "ts-vista": "workspace:^",
-        "vitest": "^4.0.8"
+        "vitest": "^4.0.9"
     }
 }
