@@ -6,7 +6,7 @@
 function omit<T, K>(object, keys): Omit<T, K[number]>;
 ```
 
-Defined in: [functions/omit.ts:33](https://github.com/alpheusday/ts-vista/blob/c438b9dc95b0e81e858cb313b2cc7855fc9db4c9/package/src/functions/omit.ts#L33)
+Defined in: [functions/omit.ts:33](https://github.com/alpheusday/ts-vista/blob/28ecd427a4892ffaf9e4d5a31d823e7ff7b1aff7/package/src/functions/omit.ts#L33)
 
 Construct an object with the properties of `object`
 except for those in `keys`.

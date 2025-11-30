@@ -6,7 +6,7 @@
 function pick<T, K>(object, keys): Pick<T, K[number]>;
 ```
 
-Defined in: [functions/pick.ts:28](https://github.com/alpheusday/ts-vista/blob/c438b9dc95b0e81e858cb313b2cc7855fc9db4c9/package/src/functions/pick.ts#L28)
+Defined in: [functions/pick.ts:28](https://github.com/alpheusday/ts-vista/blob/28ecd427a4892ffaf9e4d5a31d823e7ff7b1aff7/package/src/functions/pick.ts#L28)
 
 From `object`, pick a set of properties whose keys are in `keys`.
 

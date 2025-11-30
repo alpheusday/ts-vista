@@ -1,6 +1,6 @@
 [< Back](./../README.md)
 
-# ts-vista v0.2.0
+# ts-vista v0.2.2
 
 ## Type Aliases
 
