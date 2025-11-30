@@ -27,6 +27,10 @@ bun add ts-vista
 
 For the APIs, please refer to the [APIs](./apis/README.md).
 
+## Contributing
+
+For contributing, please refer to the [contributing guide](./CONTRIBUTING.md).
+
 ## License
 
 This project is licensed under the terms of the MIT license.
