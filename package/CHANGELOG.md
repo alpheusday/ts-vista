@@ -1,3 +1,9 @@
+## Next
+
+### What's Changed
+
+- Update documentation
+
 ## 0.2.2 (2025-05-28)
 
 ### What's Changed
