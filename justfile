@@ -29,9 +29,13 @@ tsc:
 
 # Lint code
 lint:
-    ls-lint
+    ls-lint -config ./.ls-lint.yaml
     typos
     just tsc
+
+# Lint code with Biome
+lint-biome:
+    ./{{biome}} lint .
 
 # Format code
 fmt:
