@@ -1,5 +1,5 @@
 set shell := ["bash", "-cu"]
-set windows-shell := ["powershell"]
+set windows-shell := ["pwsh", "-Command"]
 
 node_bin := "./node_modules/.bin/"
 biome := node_bin + "biome"
@@ -29,9 +29,13 @@ tsc:
 
 # Lint code
 lint:
-    ls-lint
+    ls-lint -config ./.ls-lint.yaml
     typos
     just tsc
+
+# Lint code with Biome
+lint-biome:
+    ./{{biome}} lint .
 
 # Format code
 fmt:
