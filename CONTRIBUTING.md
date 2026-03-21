@@ -30,12 +30,12 @@ This command will install Node.js dependencies.
 just i
 ```
 
-### Default Command
+### Formatting
 
-This command will do linting, formatting and testing.
+This command will format the code.
 
 ```sh
-just
+just fmt
 ```
 
 ### Linting
@@ -44,14 +44,6 @@ This command will lint the code.
 
 ```sh
 just lint
-```
-
-### Formatting
-
-This command will format the code.
-
-```sh
-just fmt
 ```
 
 ### Building
@@ -70,12 +62,12 @@ This command will run all tests.
 just test
 ```
 
-This command will run all tests with all JavaScript runtimes.
+### Checking
 
-> `deno` and `bun` must be installed to run this command.
+This command will do linting, formatting and testing.
 
 ```sh
-just test-all
+just check
 ```
 
 ### Cleaning
